@@ -1,0 +1,35 @@
+Gene 1	Gene 2	Weight	Network group	Networks
+ANXA4	ANXA1	0.5748574137687683	Physical&nbsp;interactions	Havugimana-Emili-2012
+SH3GLB1	GSTP1	0.4821910485625267	Physical&nbsp;interactions	Blandin-Richard-2013; IREF-INTACT
+PRDX1	PRDX2	0.2895430214703083	Physical&nbsp;interactions	Havugimana-Emili-2012; Kristensen-Foster-2012
+YWHAZ	SFN	0.23401534388540313	Physical&nbsp;interactions	IREF-INTACT; Kristensen-Foster-2012; Meek-Piwnica-Worms-2004; Wilker-Yaffe-2007
+BAX	BCL2L1	0.15365219116210938	Physical&nbsp;interactions	IREF-INNATEDB; IREF-INTACT
+SH3GLB1	BAX	0.12244797870516777	Physical&nbsp;interactions	IREF-HPRD; IREF-INTACT
+YWHAZ	AARS	0.10406351834535599	Physical&nbsp;interactions	IREF-INTACT; Meek-Piwnica-Worms-2004
+YWHAZ	RPS3A	0.09534625709056854	Physical&nbsp;interactions	Wilker-Yaffe-2007
+AARS	STAT5B	0.0903356596827507	Physical&nbsp;interactions	Kristensen-Foster-2012
+YWHAZ	NME1-NME2	0.06780914030969143	Physical&nbsp;interactions	IREF-INTACT; Meek-Piwnica-Worms-2004
+BAG3	ANXA1	0.052414242178201675	Physical&nbsp;interactions	Chen-Ge-2013
+BAG3	AIFM1	0.052414242178201675	Physical&nbsp;interactions	Chen-Ge-2013
+BAG3	BAX	0.052414242178201675	Physical&nbsp;interactions	Chen-Ge-2013
+YWHAZ	BAG3	0.052414242178201675	Physical&nbsp;interactions	Chen-Ge-2013
+RELA	AIFM1	0.046851725317537785	Physical&nbsp;interactions	Bouwmeester-Superti-Furga-2004; IREF-INTACT
+TUBB4B	AIFM1	0.046316392719745636	Physical&nbsp;interactions	Hutchins-Peters-2010
+BCL2	BAX	0.03973136655986309	Physical&nbsp;interactions	IREF-HPRD; IREF-INTACT
+PRDX2	APOE	0.038794614374637604	Physical&nbsp;interactions	Soler-López-Aloy-2011
+YWHAZ	ANXA1	0.038445364218205214	Physical&nbsp;interactions	IREF-INTACT; Meek-Piwnica-Worms-2004
+YWHAZ	PRDX1	0.03715551388449967	Physical&nbsp;interactions	IREF-INTACT; Meek-Piwnica-Worms-2004
+BCL2L11	BAX	0.036032162606716156	Physical&nbsp;interactions	IREF-INTACT
+STAT5A	STAT5B	0.018132153898477554	Physical&nbsp;interactions	IREF-HPRD
+MST1R	RELA	0.01622483879327774	Physical&nbsp;interactions	IREF-HPRD
+SRC	ANXA1	0.015102284960448742	Physical&nbsp;interactions	IREF-HPRD
+RELA	ANXA1	0.009103282354772091	Physical&nbsp;interactions	IREF-INTACT
+BAX	SFN	0.007313739974051714	Physical&nbsp;interactions	IREF-INTACT
+SRC	STAT5B	0.005491336807608604	Physical&nbsp;interactions	IREF-HPRD
+STAT1	RELA	0.005174100864678621	Physical&nbsp;interactions	IREF-HPRD
+SRC	IGF1R	0.004483286291360855	Physical&nbsp;interactions	IREF-HPRD
+SRC	STAT5A	0.004479727242141962	Physical&nbsp;interactions	IREF-HPRD
+PRKCE	SRC	0.004170002415776253	Physical&nbsp;interactions	IREF-HPRD
+YWHAZ	PRDX2	0.004002128262072802	Physical&nbsp;interactions	IREF-INTACT
+YWHAZ	CFL1	0.0038553092163056135	Physical&nbsp;interactions	IREF-INTACT
+YWHAZ	IGF1R	0.002757271518930793	Physical&nbsp;interactions	IREF-INTACT

@@ -1,0 +1,2 @@
+The possible protein interaction chain in this system is, 
+P61247 -> P63104 -> Q06830
